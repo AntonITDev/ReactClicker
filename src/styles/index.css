@@ -9,3 +9,9 @@
 body {
   background-color: #81E4DE;
 }
+
+.container {
+  padding: 0 10px;
+  max-width: 600px;
+  margin: 0 auto;
+}

@@ -1,2 +1,0 @@
-# ReactClicker
-Clicker on React
